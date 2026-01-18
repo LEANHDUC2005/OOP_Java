@@ -1,0 +1,6 @@
+{
+    "cursor.terminal.enableAiChecks": false,
+    "cursor.suggest.enabled": false,
+    "javascript.suggest.enabled": false,
+    "typescript.suggest.enabled": false
+}
